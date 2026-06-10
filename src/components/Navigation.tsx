@@ -8,6 +8,7 @@ const links = [
   { href: "/about", label: "Про сайт" },
   { href: "/gallery", label: "Галерея" },
   { href: "/news", label: "Новини" },
+  { href: "/partners", label: "Партнери" },
   { href: "/contacts", label: "Контакти" }
 ];
 
